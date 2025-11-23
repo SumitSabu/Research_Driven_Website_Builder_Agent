@@ -1,5 +1,3 @@
-# Agent Explanation Video - 
-
 # Google ADK Agent Samples
 
 Welcome to the README file for Website builder agent which will be using Google Agent Development Kit (ADK). This is designed to provide practical, powerful and creative agents formation using the ADK framework.
@@ -78,4 +76,4 @@ adk web ./agents
 5.  Ideally open root_website_builder agent and provide a topic to that agent.
 
 
----# Research_Driven_Website_Builder_Agent
+---
